@@ -1,9 +1,7 @@
 package com.example;
 
-/**
- * Hello world!
- *
- */
+
+
 public class Course implements Cloneable
 {
     private String courseName;
